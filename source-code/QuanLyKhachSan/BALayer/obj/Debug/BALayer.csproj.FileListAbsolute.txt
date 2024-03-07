@@ -1,0 +1,9 @@
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\bin\Debug\BALayer.dll
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\bin\Debug\BALayer.pdb
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\bin\Debug\DBLayer.dll
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\bin\Debug\DBLayer.pdb
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\obj\Debug\BALayer.csproj.AssemblyReference.cache
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\obj\Debug\BALayer.csproj.CoreCompileInputs.cache
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\obj\Debug\BALayer.csproj.CopyComplete
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\obj\Debug\BALayer.dll
+C:\Users\Quy\Desktop\LTW\CuoiKy\QuanLyKhachSan\BALayer\obj\Debug\BALayer.pdb

@@ -1,0 +1,8 @@
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\bin\Release\BALayer.dll
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\bin\Release\BALayer.pdb
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\bin\Release\DBLayer.pdb
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\obj\Release\BALayer.csproj.AssemblyReference.cache
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\obj\Release\BALayer.csproj.CoreCompileInputs.cache
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\obj\Release\BALayer.csproj.CopyComplete
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\obj\Release\BALayer.dll
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\BALayer\obj\Release\BALayer.pdb

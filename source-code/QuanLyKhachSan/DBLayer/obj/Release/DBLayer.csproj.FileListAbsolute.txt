@@ -1,0 +1,12 @@
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\bin\Release\DBLayer.dll
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\bin\Release\DBLayer.pdb
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.csproj.AssemblyReference.cache
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.dll
+C:\Users\Quy\Desktop\LTW\CuoiKy\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.pdb
+C:\Users\Quy\Desktop\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\bin\Release\DBLayer.dll
+C:\Users\Quy\Desktop\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\bin\Release\DBLayer.pdb
+C:\Users\Quy\Desktop\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.csproj.AssemblyReference.cache
+C:\Users\Quy\Desktop\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\Quy\Desktop\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.dll
+C:\Users\Quy\Desktop\21110282_NguyenKhanhQuy_21110290_NguyenDuySon\SourceCode\QuanLyKhachSan\DBLayer\obj\Release\DBLayer.pdb
